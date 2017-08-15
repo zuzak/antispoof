@@ -1,6 +1,6 @@
 {
   "name": "antispoof",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Library for preventing confusingly similar e.g. usernames",
   "main": "index.js",
   "scripts": {
