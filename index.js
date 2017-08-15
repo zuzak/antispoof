@@ -16,7 +16,7 @@ module.exports = {
       return whitelist.indexOf(x) === -1
     })
   },
-  filterGoodScripts: function (scripts ) {
+  filterGoodScripts: function (scripts) {
     var acceptableScripts = ['Common']
     var acceptableMixes = [
       ['Han', 'Hiragana', 'Katakana'], // Japanese
