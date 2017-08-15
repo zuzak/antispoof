@@ -20,7 +20,7 @@ module.exports = {
     var acceptableScripts = ['Common']
     var acceptableMixes = [
       ['Han', 'Hiragana', 'Katakana'], // Japanese
-      ['Han', 'Hangul']
+      ['Han', 'Hangul'] // Korean
     ]
 
     // Strip characters we don't care for
